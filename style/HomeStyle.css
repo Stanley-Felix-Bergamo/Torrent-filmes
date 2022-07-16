@@ -1,0 +1,49 @@
+ @media (max-width: 467px) {
+
+     #subtitulo {
+         font-size: 15px;
+     }
+
+     #carroselMob {
+         height: 270px;
+     }
+
+     #imgMob {
+         width: 400px;
+         height: 300px;
+     }
+
+
+ }
+
+
+ .Rodape {
+     padding: 20px;
+     font-size: 15px;
+     position: relative;
+     text-align: center;
+     top: 30px;
+ }
+
+ .tamanhoCarrosel {
+     height: 300px;
+ }
+
+ .img {
+     height: 300px;
+     width: 100%;
+ }
+
+ .img1 {
+     width: 30px;
+     border-radius: 15px;
+ }
+
+ .capa {
+     height: 350px;
+     width: 248px;
+ }
+
+ .TamanhoCard {
+     max-width: 250px;
+ }
