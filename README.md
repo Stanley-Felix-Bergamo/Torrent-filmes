@@ -1,9 +1,5 @@
 # Torrent Filmes
 
-![Design_sem_nome-removebg-preview (1)](https://user-images.githubusercontent.com/48367763/150189038-66a8d31f-f24f-4bf1-ac2b-cef7dd1322f5.png)
-
-
-
 
 # 📋 Sobre o Projeto
 <p>É um Web Site de Download de filmes e series.<br>
@@ -20,6 +16,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 </div> 
 
-
-<h2>📕 Licença</h2>
-Esse projeto está sob a licença MIT. Veja o arquivo<a href="https://github.com/Stanley-Felix-Bergamo/Torrent-filmes/blob/master/LICENSE"> LICENSE </a>para mais detalhes.
